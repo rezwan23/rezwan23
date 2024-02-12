@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Ghani</h1>
 <h3 align="center">PHP explorer, Javascript Lover, Salesforce Inthusiast</h3>
 
